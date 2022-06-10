@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.6.4",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "dev": "webpack --mode development",
+    "prod": "webpack --mode production"
+  }
+}

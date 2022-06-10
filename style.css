@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "pixelFont";
+    src: url('joystix monospace.ttf') format('truetype');
+}
+body{
+    background-color: darkslategray;
+}
+#game {
+    position: absolute;
+    border: 2px solid black;
+    overflow: hidden;
+    width: 1024px;
+    height: 700px;
+}
+.container{
+    margin: auto;
+    border: 20px solid black;
+    width: 1024px;
+    height: 870px;
+    position: relative;
+    background-color: black;
+}
+.data{
+    height: 134px;
+    width: 1016px;
+    background-color: black;
+    position: relative;
+    top: 700px;
+    left: 0px;
+    border: 4px solid white;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.text{
+    color: white;
+    font-family: "pixelFont";
+    font-size: 20px;
+}
+.fuelMeter{
+    position: absolute;
+    left: 600px;
+    top: 20px;
+}
+#marker{
+    width: 7px;
+    height: 52px;
+    background-color: orange;
+    position: absolute;
+    left: 298px;
+    top: 4px;
+}
