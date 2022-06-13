@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abb01a92-9363-4841-9553-28078c9dcb53" name="Default Changelist" comment="" />
+    <list default="true" id="abb01a92-9363-4841-9553-28078c9dcb53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/graphics/apacheLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/apacheRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphics/enemyBullet1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +27,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29a6JZzYlv90bfmw34Tti0CqXAP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -73,11 +81,16 @@
       <workItem from="1654705718899" duration="183000" />
       <workItem from="1654797890394" duration="660000" />
       <workItem from="1654808676867" duration="449000" />
-      <workItem from="1654809128151" duration="3283000" />
+      <workItem from="1654809128151" duration="3553000" />
+      <workItem from="1654968668155" duration="599000" />
+      <workItem from="1655040193443" duration="2800000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
